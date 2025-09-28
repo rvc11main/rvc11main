@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Use the [Discussions tab|https://github.com/rvc11main/rvc11main/discussions] to communicate to me.
+Use the [Discussions tab](https://github.com/rvc11main/rvc11main/discussions) to communicate to me.
