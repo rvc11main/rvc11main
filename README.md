@@ -4,8 +4,8 @@
 
 There was an Old Man with a gong,  
 Who bumped at it all the day long;  
-&nbsp;&nbsp;&nbsp;&nbsp;But they called out, "Oh, law!  
-&nbsp;&nbsp;&nbsp;&nbsp;You're a horrid old bore!"  
+&#9;But they called out, "Oh, law!  
+&#9;You're a horrid old bore!"  
 So they smashed that Old Man with a gong.
 
 Use the [Discussions tab](https://github.com/rvc11main/rvc11main/discussions) to communicate to me.
