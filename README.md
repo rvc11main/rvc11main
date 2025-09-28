@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<table align="center" border="0">
+<table align="center">
 <tr><td align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Edward_Lear_A_Book_of_Nonsense_08.jpg/330px-Edward_Lear_A_Book_of_Nonsense_08.jpg"/>
 <div align="left">
